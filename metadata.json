@@ -1,0 +1,6 @@
+{
+  "name": "Guia do Proponente — Edital iCS",
+  "description": "Plataforma interativa para orientação, simulação de elegibilidade, cálculo de orçamento e checklist de documentos para o Edital iCS nº 05/2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
